@@ -31,6 +31,14 @@
         "dragCoefficient": 0.34,
         "rollingResistance": 0.012
     },
+     {
+        "id": "m240i-f86",
+        "name": "BMW M240i F87",
+        "weight": 1565,
+        "frontalArea": 2.16,
+        "dragCoefficient": 0.33,
+        "rollingResistance": 0.012
+    },
     {
         "id": "rs3-8p-cepa",
         "name": "Audi RS3 8P CEPA",
