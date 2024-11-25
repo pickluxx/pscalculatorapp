@@ -1,0 +1,42 @@
+[
+    {
+        "id": "ttrs-8s",
+        "name": "Audi TTRS 8S VFL DAZA",
+        "weight": 1525,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "m240i-f22",
+        "name": "BMW M240i F22",
+        "weight": 1565,
+        "frontalArea": 2.16,
+        "dragCoefficient": 0.33,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs3-8v-daza",
+        "name": "Audi RS3 8V DAZA",
+        "weight": 1590,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs3-8v-dnwa",
+        "name": "Audi RS3 8V DNWA",
+        "weight": 1610,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs3-8p-cepa",
+        "name": "Audi RS3 8P CEPA",
+        "weight": 1575,
+        "frontalArea": 2.16,
+        "dragCoefficient": 0.362,
+        "rollingResistance": 0.012
+    }
+]
