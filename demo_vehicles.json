@@ -1,0 +1,802 @@
+[
+    {
+        "id": "vehicle-001",
+        "name": "Demo Vehicle 1",
+        "weight": 1500,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-002",
+        "name": "Demo Vehicle 2",
+        "weight": 1501,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-003",
+        "name": "Demo Vehicle 3",
+        "weight": 1502,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-004",
+        "name": "Demo Vehicle 4",
+        "weight": 1503,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-005",
+        "name": "Demo Vehicle 5",
+        "weight": 1504,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-006",
+        "name": "Demo Vehicle 6",
+        "weight": 1505,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-007",
+        "name": "Demo Vehicle 7",
+        "weight": 1506,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-008",
+        "name": "Demo Vehicle 8",
+        "weight": 1507,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-009",
+        "name": "Demo Vehicle 9",
+        "weight": 1508,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-010",
+        "name": "Demo Vehicle 10",
+        "weight": 1509,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-011",
+        "name": "Demo Vehicle 11",
+        "weight": 1510,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-012",
+        "name": "Demo Vehicle 12",
+        "weight": 1511,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-013",
+        "name": "Demo Vehicle 13",
+        "weight": 1512,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-014",
+        "name": "Demo Vehicle 14",
+        "weight": 1513,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-015",
+        "name": "Demo Vehicle 15",
+        "weight": 1514,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-016",
+        "name": "Demo Vehicle 16",
+        "weight": 1515,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-017",
+        "name": "Demo Vehicle 17",
+        "weight": 1516,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-018",
+        "name": "Demo Vehicle 18",
+        "weight": 1517,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-019",
+        "name": "Demo Vehicle 19",
+        "weight": 1518,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-020",
+        "name": "Demo Vehicle 20",
+        "weight": 1519,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-021",
+        "name": "Demo Vehicle 21",
+        "weight": 1520,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-022",
+        "name": "Demo Vehicle 22",
+        "weight": 1521,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-023",
+        "name": "Demo Vehicle 23",
+        "weight": 1522,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-024",
+        "name": "Demo Vehicle 24",
+        "weight": 1523,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-025",
+        "name": "Demo Vehicle 25",
+        "weight": 1524,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-026",
+        "name": "Demo Vehicle 26",
+        "weight": 1525,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-027",
+        "name": "Demo Vehicle 27",
+        "weight": 1526,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-028",
+        "name": "Demo Vehicle 28",
+        "weight": 1527,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-029",
+        "name": "Demo Vehicle 29",
+        "weight": 1528,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-030",
+        "name": "Demo Vehicle 30",
+        "weight": 1529,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-031",
+        "name": "Demo Vehicle 31",
+        "weight": 1530,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-032",
+        "name": "Demo Vehicle 32",
+        "weight": 1531,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-033",
+        "name": "Demo Vehicle 33",
+        "weight": 1532,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-034",
+        "name": "Demo Vehicle 34",
+        "weight": 1533,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-035",
+        "name": "Demo Vehicle 35",
+        "weight": 1534,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-036",
+        "name": "Demo Vehicle 36",
+        "weight": 1535,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-037",
+        "name": "Demo Vehicle 37",
+        "weight": 1536,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-038",
+        "name": "Demo Vehicle 38",
+        "weight": 1537,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-039",
+        "name": "Demo Vehicle 39",
+        "weight": 1538,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-040",
+        "name": "Demo Vehicle 40",
+        "weight": 1539,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-041",
+        "name": "Demo Vehicle 41",
+        "weight": 1540,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-042",
+        "name": "Demo Vehicle 42",
+        "weight": 1541,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-043",
+        "name": "Demo Vehicle 43",
+        "weight": 1542,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-044",
+        "name": "Demo Vehicle 44",
+        "weight": 1543,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-045",
+        "name": "Demo Vehicle 45",
+        "weight": 1544,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-046",
+        "name": "Demo Vehicle 46",
+        "weight": 1545,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-047",
+        "name": "Demo Vehicle 47",
+        "weight": 1546,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-048",
+        "name": "Demo Vehicle 48",
+        "weight": 1547,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-049",
+        "name": "Demo Vehicle 49",
+        "weight": 1548,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-050",
+        "name": "Demo Vehicle 50",
+        "weight": 1549,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-051",
+        "name": "Demo Vehicle 51",
+        "weight": 1550,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-052",
+        "name": "Demo Vehicle 52",
+        "weight": 1551,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-053",
+        "name": "Demo Vehicle 53",
+        "weight": 1552,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-054",
+        "name": "Demo Vehicle 54",
+        "weight": 1553,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-055",
+        "name": "Demo Vehicle 55",
+        "weight": 1554,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-056",
+        "name": "Demo Vehicle 56",
+        "weight": 1555,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-057",
+        "name": "Demo Vehicle 57",
+        "weight": 1556,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-058",
+        "name": "Demo Vehicle 58",
+        "weight": 1557,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-059",
+        "name": "Demo Vehicle 59",
+        "weight": 1558,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-060",
+        "name": "Demo Vehicle 60",
+        "weight": 1559,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-061",
+        "name": "Demo Vehicle 61",
+        "weight": 1560,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-062",
+        "name": "Demo Vehicle 62",
+        "weight": 1561,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-063",
+        "name": "Demo Vehicle 63",
+        "weight": 1562,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-064",
+        "name": "Demo Vehicle 64",
+        "weight": 1563,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-065",
+        "name": "Demo Vehicle 65",
+        "weight": 1564,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-066",
+        "name": "Demo Vehicle 66",
+        "weight": 1565,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-067",
+        "name": "Demo Vehicle 67",
+        "weight": 1566,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-068",
+        "name": "Demo Vehicle 68",
+        "weight": 1567,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-069",
+        "name": "Demo Vehicle 69",
+        "weight": 1568,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-070",
+        "name": "Demo Vehicle 70",
+        "weight": 1569,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-071",
+        "name": "Demo Vehicle 71",
+        "weight": 1570,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-072",
+        "name": "Demo Vehicle 72",
+        "weight": 1571,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-073",
+        "name": "Demo Vehicle 73",
+        "weight": 1572,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-074",
+        "name": "Demo Vehicle 74",
+        "weight": 1573,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-075",
+        "name": "Demo Vehicle 75",
+        "weight": 1574,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-076",
+        "name": "Demo Vehicle 76",
+        "weight": 1575,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-077",
+        "name": "Demo Vehicle 77",
+        "weight": 1576,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-078",
+        "name": "Demo Vehicle 78",
+        "weight": 1577,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-079",
+        "name": "Demo Vehicle 79",
+        "weight": 1578,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-080",
+        "name": "Demo Vehicle 80",
+        "weight": 1579,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-081",
+        "name": "Demo Vehicle 81",
+        "weight": 1580,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-082",
+        "name": "Demo Vehicle 82",
+        "weight": 1581,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-083",
+        "name": "Demo Vehicle 83",
+        "weight": 1582,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-084",
+        "name": "Demo Vehicle 84",
+        "weight": 1583,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-085",
+        "name": "Demo Vehicle 85",
+        "weight": 1584,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-086",
+        "name": "Demo Vehicle 86",
+        "weight": 1585,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-087",
+        "name": "Demo Vehicle 87",
+        "weight": 1586,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-088",
+        "name": "Demo Vehicle 88",
+        "weight": 1587,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-089",
+        "name": "Demo Vehicle 89",
+        "weight": 1588,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-090",
+        "name": "Demo Vehicle 90",
+        "weight": 1589,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-091",
+        "name": "Demo Vehicle 91",
+        "weight": 1590,
+        "frontalArea": 2.0,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-092",
+        "name": "Demo Vehicle 92",
+        "weight": 1591,
+        "frontalArea": 2.01,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-093",
+        "name": "Demo Vehicle 93",
+        "weight": 1592,
+        "frontalArea": 2.02,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-094",
+        "name": "Demo Vehicle 94",
+        "weight": 1593,
+        "frontalArea": 2.03,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-095",
+        "name": "Demo Vehicle 95",
+        "weight": 1594,
+        "frontalArea": 2.04,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-096",
+        "name": "Demo Vehicle 96",
+        "weight": 1595,
+        "frontalArea": 2.05,
+        "dragCoefficient": 0.3,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-097",
+        "name": "Demo Vehicle 97",
+        "weight": 1596,
+        "frontalArea": 2.06,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-098",
+        "name": "Demo Vehicle 98",
+        "weight": 1597,
+        "frontalArea": 2.07,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-099",
+        "name": "Demo Vehicle 99",
+        "weight": 1598,
+        "frontalArea": 2.08,
+        "dragCoefficient": 0.32999999999999996,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "vehicle-100",
+        "name": "Demo Vehicle 100",
+        "weight": 1599,
+        "frontalArea": 2.09,
+        "dragCoefficient": 0.33999999999999997,
+        "rollingResistance": 0.012
+    }
+]
