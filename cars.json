@@ -5,7 +5,13 @@
         "weight": 1525,
         "frontalArea": 2.09,
         "dragCoefficient": 0.32,
-        "rollingResistance": 0.012
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Specifications, Auto Motor und Sport"
+        }
     },
     {
         "id": "rs3-8v-daza",
@@ -13,7 +19,13 @@
         "weight": 1590,
         "frontalArea": 2.22,
         "dragCoefficient": 0.34,
-        "rollingResistance": 0.012
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data, Sport Auto"
+        }
     },
     {
         "id": "rs3-8v-dnwa",
@@ -21,14 +33,376 @@
         "weight": 1610,
         "frontalArea": 2.22,
         "dragCoefficient": 0.34,
-        "rollingResistance": 0.012
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data, Sport Auto"
+        }
     },
     {
-        "id": "rs3-8p-cepa",
-        "name": "Audi RS3 8P CEPA",
-        "weight": 1575,
-        "frontalArea": 2.16,
-        "dragCoefficient": 0.362,
-        "rollingResistance": 0.012
+        "id": "rs4-b9",
+        "name": "Audi RS4 B9",
+        "weight": 1745,
+        "frontalArea": 2.30,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data, Auto Motor und Sport"
+        }
+    },
+    {
+        "id": "rs5-f5",
+        "name": "Audi RS5 (F5)",
+        "weight": 1840,
+        "frontalArea": 2.33,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data, Sport Auto"
+        }
+    },
+    {
+        "id": "rs6-c8",
+        "name": "Audi RS6 Avant (C8)",
+        "weight": 2075,
+        "frontalArea": 2.70,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data, Auto Motor und Sport"
+        }
+    },
+    {
+        "id": "rs7-c8",
+        "name": "Audi RS7 (C8)",
+        "weight": 2065,
+        "frontalArea": 2.65,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data"
+        }
+    },
+    {
+        "id": "rsq3-f3",
+        "name": "Audi RSQ3 (F3)",
+        "weight": 1775,
+        "frontalArea": 2.47,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data"
+        }
+    },
+    {
+        "id": "m2-coupe",
+        "name": "BMW M2 F87",
+        "weight": 1570,
+        "frontalArea": 2.19,
+        "dragCoefficient": 0.33,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "BMW AG Technical Data, Sport Auto"
+        }
+    },
+    {
+        "id": "golf-gti-mk7",
+        "name": "VW Golf GTI MK7",
+        "weight": 1400,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "VW AG Technical Data"
+        }
+    },
+    {
+        "id": "c63-amg-w205",
+        "name": "Mercedes-AMG C63 W205",
+        "weight": 1735,
+        "frontalArea": 2.25,
+        "dragCoefficient": 0.29,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Mercedes-Benz AG Technical Data, Auto Motor und Sport"
+        }
+    },
+    {
+        "id": "i30n",
+        "name": "Hyundai i30 N",
+        "weight": 1465,
+        "frontalArea": 2.19,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Hyundai Technical Data"
+        }
+    },
+    {
+        "id": "supra-mk5",
+        "name": "Toyota Supra MK5 (A90)",
+        "weight": 1570,
+        "frontalArea": 2.15,
+        "dragCoefficient": 0.33,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Toyota Technical Data, Sport Auto"
+        }
+    },
+    {
+        "id": "m340i-xdrive",
+        "name": "BMW M340i xDrive (G20, B58)",
+        "weight": 1615,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.26,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "BMW AG Technical Data"
+        }
+    },
+    {
+        "id": "z4-m40i",
+        "name": "BMW Z4 M40i (G29, B58)",
+        "weight": 1610,
+        "frontalArea": 2.10,
+        "dragCoefficient": 0.29,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "BMW AG Technical Data"
+        }
+    },
+    {
+        "id": "a45s-w177",
+        "name": "Mercedes-AMG A45 S (W177)",
+        "weight": 1550,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Mercedes-Benz AG Technical Data"
+        }
+    },
+    {
+        "id": "golf-r-mk7",
+        "name": "VW Golf R MK7",
+        "weight": 1480,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "VW AG Technical Data"
+        }
+    },
+    {
+        "id": "focus-rs-mk3",
+        "name": "Ford Focus RS MK3",
+        "weight": 1599,
+        "frontalArea": 2.26,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Ford Technical Data"
+        }
+    },
+    {
+        "id": "model-s-plaid",
+        "name": "Tesla Model S Plaid",
+        "weight": 2162,
+        "frontalArea": 2.34,
+        "dragCoefficient": 0.208,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": true,
+            "dragCoefficient": true,
+            "source": "Tesla Technical Data, EPA Documentation"
+        }
+    },
+    {
+        "id": "model-3-performance",
+        "name": "Tesla Model 3 Performance",
+        "weight": 1847,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.23,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": true,
+            "dragCoefficient": true,
+            "source": "Tesla Technical Data, EPA Documentation"
+        }
+    },
+    {
+        "id": "model-x-plaid",
+        "name": "Tesla Model X Plaid",
+        "weight": 2480,
+        "frontalArea": 2.79,
+        "dragCoefficient": 0.25,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": true,
+            "dragCoefficient": true,
+            "source": "Tesla Technical Data, EPA Documentation"
+        }
+    },
+    {
+        "id": "model-y-performance",
+        "name": "Tesla Model Y Performance",
+        "weight": 1995,
+        "frontalArea": 2.60,
+        "dragCoefficient": 0.23,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": true,
+            "dragCoefficient": true,
+            "source": "Tesla Technical Data, EPA Documentation"
+        }
+    },
+    {
+        "id": "s3-8y",
+        "name": "Audi S3 8Y",
+        "weight": 1500,
+        "frontalArea": 2.19,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data"
+        }
+    },
+    {
+        "id": "golf-8-gti",
+        "name": "VW Golf GTI MK8",
+        "weight": 1450,
+        "frontalArea": 2.24,
+        "dragCoefficient": 0.275,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "VW AG Technical Data"
+        }
+    },
+    {
+        "id": "718-cayman-s",
+        "name": "Porsche 718 Cayman S",
+        "weight": 1460,
+        "frontalArea": 2.10,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Porsche AG Technical Data"
+        }
+    },
+    {
+        "id": "mustang-gt-5-0",
+        "name": "Ford Mustang GT 5.0",
+        "weight": 1745,
+        "frontalArea": 2.36,
+        "dragCoefficient": 0.37,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Ford Technical Data"
+        }
+    },
+    {
+        "id": "rsq8",
+        "name": "Audi RSQ8",
+        "weight": 2315,
+        "frontalArea": 3.0,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Audi AG Technical Data"
+        }
+    },
+    {
+        "id": "civic-type-r-fk8",
+        "name": "Honda Civic Type R FK8",
+        "weight": 1406,
+        "frontalArea": 2.25,
+        "dragCoefficient": 0.27,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "Honda Technical Data"
+        }
+    },
+    {
+        "id": "camaro-ss",
+        "name": "Chevrolet Camaro SS",
+        "weight": 1660,
+        "frontalArea": 2.34,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012,
+        "verified": {
+            "weight": true,
+            "frontalArea": "estimated",
+            "dragCoefficient": true,
+            "source": "GM Technical Data"
+        }
     }
 ]
