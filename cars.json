@@ -470,5 +470,37 @@
         "frontalArea": 2.65,
         "dragCoefficient": 0.315,
         "rollingResistance": 0.012
+    },
+     {
+        "id": "i30n-fb-2019",
+        "name": "Hyundai i30 Fastback N 2.0 T-GDI (2019)",
+        "weight": 1459,
+        "frontalArea": 2.23,
+        "dragCoefficient": 0.297,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "i30n-fb-performance-2019",
+        "name": "Hyundai i30 Fastback N Performance 2.0 T-GDI (2019)",
+        "weight": 1481,
+        "frontalArea": 2.23,
+        "dragCoefficient": 0.297,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "i30n-fb-performance-2021",
+        "name": "Hyundai i30 Fastback N Performance 2.0 T-GDI (2021)",
+        "weight": 1471,
+        "frontalArea": 2.65,
+        "dragCoefficient": 0.315,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "i30n-fb-performance-2021-dct",
+        "name": "Hyundai i30 Fastback N Performance 2.0 T-GDI DCT (2021)",
+        "weight": 1514,
+        "frontalArea": 2.65,
+        "dragCoefficient": 0.315,
+        "rollingResistance": 0.012
     }
 ]
