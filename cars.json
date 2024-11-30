@@ -726,5 +726,61 @@
         "frontalArea": 2.22,
         "dragCoefficient": 0.28,
         "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-r-hs",
+        "name": "VW Golf 7 R (Handschaltung)",
+        "weight": 1495,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-r-dsg",
+        "name": "VW Golf 7 R (DSG)",
+        "weight": 1515,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-r-facelift-hs",
+        "name": "VW Golf 7 R Facelift (Handschaltung)",
+        "weight": 1495,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-r-facelift-dsg",
+        "name": "VW Golf 7 R Facelift (DSG)",
+        "weight": 1515,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf8-r-dsg",
+        "name": "VW Golf 8 R (DSG)",
+        "weight": 1570,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf8-r-performance-dsg",
+        "name": "VW Golf 8 R Performance Paket (DSG)",
+        "weight": 1570,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf8-r-20years-dsg",
+        "name": "VW Golf 8 R 20 Years Edition (DSG)",
+        "weight": 1570,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012
     }
 ]
