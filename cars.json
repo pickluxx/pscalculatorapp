@@ -502,5 +502,109 @@
         "frontalArea": 2.65,
         "dragCoefficient": 0.315,
         "rollingResistance": 0.012
+    },
+    {
+        "id": "m2-competition-f87-2018",
+        "name": "BMW M2 Competition (F87)",
+        "weight": 1550,
+        "frontalArea": 2.21,
+        "dragCoefficient": 0.36,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "m2-competition-2018-dct",
+        "name": "BMW M2 Competition DCT",
+        "weight": 1575,
+        "frontalArea": 2.21,
+        "dragCoefficient": 0.36,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "m2-g87-2022",
+        "name": "BMW M2 (G87)",
+        "weight": 1495,
+        "frontalArea": 2.21,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "m2-g87-2022-dct",
+        "name": "BMW M2 DCT (G87)",
+        "weight": 1520,
+        "frontalArea": 2.21,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "x3-m-competition-f97-2021",
+        "name": "BMW X3 M Competition (F97)",
+        "weight": 1995,
+        "frontalArea": 2.69,
+        "dragCoefficient": 0.36,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "x6-m-f96-2019",
+        "name": "BMW X6 M (F96)",
+        "weight": 2295,
+        "frontalArea": 2.89,
+        "dragCoefficient": 0.37,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "m8-competition-f93-2021",
+        "name": "BMW M8 Competition Gran Coupé (F93)",
+        "weight": 1995,
+        "frontalArea": 2.25,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "m5-competition-f90-2018",
+        "name": "BMW M5 Competition (F90)",
+        "weight": 1865,
+        "frontalArea": 2.3,
+        "dragCoefficient": 0.33,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "x5-m-competition-f95-2023",
+        "name": "BMW X5 M Competition (F95)",
+        "weight": 2400,
+        "frontalArea": 2.99,
+        "dragCoefficient": 0.38,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "m6-cabrio-f12-2012",
+        "name": "BMW M6 Cabrio (F12)",
+        "weight": 1980,
+        "frontalArea": 2.29,
+        "dragCoefficient": 0.33,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "x4-m-competition-f98-2021",
+        "name": "BMW X4 M Competition (F98)",
+        "weight": 2010,
+        "frontalArea": 2.65,
+        "dragCoefficient": 0.37,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "m3-gts-e92-2010",
+        "name": "BMW M3 GTS (E92)",
+        "weight": 1530,
+        "frontalArea": 2.18,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "x5-m-f95-2019",
+        "name": "BMW X5 M (F95)",
+        "weight": 2310,
+        "frontalArea": 2.99,
+        "dragCoefficient": 0.38,
+        "rollingResistance": 0.012
     }
 ]
