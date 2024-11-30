@@ -422,5 +422,53 @@
         "frontalArea": 2.44,
         "dragCoefficient": 0.34,
         "rollingResistance": 0.012
+    },
+      {
+        "id": "i30n-2017",
+        "name": "Hyundai i30 N 2.0 T-GDI (2017)",
+        "weight": 1515,
+        "frontalArea": 2.23,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "i30n-performance-2017",
+        "name": "Hyundai i30 N Performance 2.0 T-GDI (2017)",
+        "weight": 1544,
+        "frontalArea": 2.23,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "i30n-2019",
+        "name": "Hyundai i30 N 2.0 T-GDI (2019)",
+        "weight": 1515,
+        "frontalArea": 2.23,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "i30n-performance-2019",
+        "name": "Hyundai i30 N Performance 2.0 T-GDI (2019)",
+        "weight": 1544,
+        "frontalArea": 2.23,
+        "dragCoefficient": 0.33,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "i30n-2021",
+        "name": "Hyundai i30 N 2.0 T-GDI (2021)",
+        "weight": 1517,
+        "frontalArea": 2.65,
+        "dragCoefficient": 0.315,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "i30n-performance-2021",
+        "name": "Hyundai i30 N Performance 2.0 T-GDI (2021)",
+        "weight": 1534,
+        "frontalArea": 2.65,
+        "dragCoefficient": 0.315,
+        "rollingResistance": 0.012
     }
 ]
