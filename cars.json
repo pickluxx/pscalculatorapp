@@ -1,7 +1,7 @@
 [
     {
         "id": "ttrs-8s",
-        "name": "Audi TTRS 8S VFL DAZA",
+        "name": "Audi TT RS 8S 2.5 TFSI Coupé DAZA (2027)",
         "weight": 1525,
         "frontalArea": 2.09,
         "dragCoefficient": 0.32,
@@ -349,6 +349,78 @@
         "weight": 1450,
         "frontalArea": 2.09,
         "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rsq3-8u-25-tfsi",
+        "name": "Audi RS Q3 8U 2.5 TFSI",
+        "weight": 1730,
+        "frontalArea": 2.44,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs6-c7-40-tfsi",
+        "name": "Audi RS6 C7 4.0 TFSI Avant",
+        "weight": 1950,
+        "frontalArea": 2.40,
+        "dragCoefficient": 0.352,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs4-b8-avant",
+        "name": "Audi RS4 B8 4.2 FSI Avant (2012)",
+        "weight": 1795,
+        "frontalArea": 2.18,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs-q3-8u-250kw",
+        "name": "Audi RS Q3 8U 2.5 TFSI 250kW (2016)",
+        "weight": 1730,
+        "frontalArea": 2.44,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs5-b8-coupe",
+        "name": "Audi RS5 B8 4.2 FSI Coupé (2015)",
+        "weight": 1715,
+        "frontalArea": 2.18,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs4-b7-limousine",
+        "name": "Audi RS4 B7 4.2 FSI Limousine (2005)",
+        "weight": 1650,
+        "frontalArea": 2.17,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs6-c6-limousine",
+        "name": "Audi RS6 C6 4.2 Biturbo (2004)",
+        "weight": 1840,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs4-b7-avant",
+        "name": "Audi RS4 B7 4.2 FSI Avant (2007)",
+        "weight": 1710,
+        "frontalArea": 2.17,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "rs-q3-8u-228kw",
+        "name": "Audi RS Q3 8U 2.5 TFSI 228kW (2013)",
+        "weight": 1655,
+        "frontalArea": 2.44,
+        "dragCoefficient": 0.34,
         "rollingResistance": 0.012
     }
 ]
