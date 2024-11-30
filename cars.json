@@ -694,5 +694,37 @@
         "frontalArea": 2.20,
         "dragCoefficient": 0.29,
         "rollingResistance": 0.012
+    },
+    {
+        "id": "golf8-gti-hs",
+        "name": "VW Golf 8 GTI (Handschaltung)",
+        "weight": 1463,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.275,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf8-gti-dsg",
+        "name": "VW Golf 8 GTI (DSG)",
+        "weight": 1483,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.275,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf8-gti-clubsport-dsg",
+        "name": "VW Golf 8 GTI Clubsport (DSG)",
+        "weight": 1498,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.28,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf8-gti-clubsport45-dsg",
+        "name": "VW Golf 8 GTI Clubsport 45 (DSG)",
+        "weight": 1498,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.28,
+        "rollingResistance": 0.012
     }
 ]
