@@ -8,6 +8,14 @@
         "rollingResistance": 0.012
     },
     {
+    "id": "audi-tt-rs-8s-roadster-daza",
+    "name": "Audi TT RS 8S Roadster DAZA",
+    "weight": 1605,
+    "frontalArea": 2.09,
+    "dragCoefficient": 0.32,
+    "rollingResistance": 0.012
+    },
+    {
         "id": "rs3-8v-daza",
         "name": "Audi RS3 8V DAZA",
         "weight": 1590,
