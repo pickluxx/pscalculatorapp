@@ -606,5 +606,93 @@
         "frontalArea": 2.99,
         "dragCoefficient": 0.38,
         "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-hs",
+        "name": "VW Golf 7 GTI (Handschaltung)",
+        "weight": 1351,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.29,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-dsg",
+        "name": "VW Golf 7 GTI (DSG)",
+        "weight": 1370,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.29,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-performance-hs",
+        "name": "VW Golf 7 GTI Performance (Handschaltung)",
+        "weight": 1351,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-performance-dsg",
+        "name": "VW Golf 7 GTI Performance (DSG)",
+        "weight": 1370,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-performance-facelift-dsg",
+        "name": "VW Golf 7 GTI Performance Facelift (DSG)",
+        "weight": 1370,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.30,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-clubsport-hs",
+        "name": "VW Golf 7 GTI Clubsport (Handschaltung)",
+        "weight": 1375,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-clubsport-dsg",
+        "name": "VW Golf 7 GTI Clubsport (DSG)",
+        "weight": 1395,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-clubsport-s-hs",
+        "name": "VW Golf 7 GTI Clubsport S (Handschaltung)",
+        "weight": 1360,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-tcr-dsg",
+        "name": "VW Golf 7 GTI TCR (DSG)",
+        "weight": 1385,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-facelift-hs",
+        "name": "VW Golf 7 GTI Facelift (Handschaltung)",
+        "weight": 1351,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.29,
+        "rollingResistance": 0.012
+    },
+    {
+        "id": "golf7-gti-facelift-dsg",
+        "name": "VW Golf 7 GTI Facelift (DSG)",
+        "weight": 1370,
+        "frontalArea": 2.20,
+        "dragCoefficient": 0.29,
+        "rollingResistance": 0.012
     }
 ]
