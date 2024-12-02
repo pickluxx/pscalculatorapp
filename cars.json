@@ -48,6 +48,14 @@
         "rollingResistance": 0.012
     },
     {
+        "id": "s3-8v-VFL-limousine",
+        "name": "Audi S3 8V VFL Limousine",
+        "weight": 1535,
+        "frontalArea": 2.13,
+        "dragCoefficient": 0.31,
+        "rollingResistance": 0.012
+    }, 
+    {
         "id": "rs5-b8-cabriolet",
         "name": "Audi RS5 B8 Cabriolet",
         "weight": 1920,
