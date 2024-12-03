@@ -624,6 +624,14 @@
         "rollingResistance": 0.012
     },
     {
+        "id": "z4-35i-e89-2013",
+        "name": "BMW Z4 35i (E89) Handschalter",
+        "weight": 1580,
+        "frontalArea": 1.96,
+        "dragCoefficient": 0.34,
+        "rollingResistance": 0.012
+    },
+    {
         "id": "golf7-gti-hs",
         "name": "VW Golf 7 GTI (Handschaltung)",
         "weight": 1351,
