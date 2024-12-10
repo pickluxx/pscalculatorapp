@@ -384,6 +384,30 @@
         "rollingResistance": 0.012
     },
     {
+        "id": "rs6-c8-40",
+        "name": "Audi RS6 C8 Avant",
+        "weight": 2100,
+        "frontalArea": 2.41,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012
+    },
+        {
+        "id": "rs6-c8-40-Performance",
+        "name": "Audi RS6 C8 Avant Performance",
+        "weight": 2090,
+        "frontalArea": 2.41,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012
+    },
+        {
+        "id": "rs6-c8-40-gt",
+        "name": "Audi RS6 C8 Avant GT",
+        "weight": 2075,
+        "frontalArea": 2.41,
+        "dragCoefficient": 0.35,
+        "rollingResistance": 0.012
+    },
+    {
         "id": "rs4-b8-avant",
         "name": "Audi RS4 B8 4.2 FSI Avant (2012)",
         "weight": 1795,
