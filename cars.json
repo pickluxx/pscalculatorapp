@@ -830,5 +830,13 @@
         "frontalArea": 2.22,
         "dragCoefficient": 0.30,
         "rollingResistance": 0.012
+    },
+    {
+        "id": "m340i-xdrive-touring-2019",
+        "name": "BMW M340i xDrive Touring (G21)",
+        "weight": 1928,
+        "frontalArea": 2.22,
+        "dragCoefficient": 0.29,
+        "rollingResistance": 0.012
     }
 ]
