@@ -838,5 +838,13 @@
         "frontalArea": 2.22,
         "dragCoefficient": 0.29,
         "rollingResistance": 0.012
+    },
+     {
+        "id": "Porsche-Panamera-Turbo-S-E-Hybrid-2019",
+        "name": "Porsche Panamera Turbo S E-Hybrid ",
+        "weight": 2435,
+        "frontalArea": 2.39,
+        "dragCoefficient": 0.32,
+        "rollingResistance": 0.009
     }
 ]
